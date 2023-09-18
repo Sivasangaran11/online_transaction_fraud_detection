@@ -17,19 +17,25 @@ Classification Metrics
 	To check how well our model we use some metrics to find the accuracy of our model. There are many types of classification metrics available in Scikit learn, Confusion Matrix, Accuracy Score Precision, Recall, F1-Score.
 
 Use Case Diagram:
+
 	![image](https://github.com/Sivasangaran11/online_transaction_fraud_detection/assets/121967949/d57290dd-941c-4b25-9a7b-e0e0ee23a1a0)
  
 Class_diagram:
+
   ![image](https://github.com/Sivasangaran11/online_transaction_fraud_detection/assets/121967949/f40718d9-95fd-4887-bf19-2e754fddc8b5)
   
 Activity_diagram:
+
   ![image](https://github.com/Sivasangaran11/online_transaction_fraud_detection/assets/121967949/b4003719-2333-4123-867d-5f04fd578321)
 
 Sequence_diagram:
+
   ![image](https://github.com/Sivasangaran11/online_transaction_fraud_detection/assets/121967949/9b51ecdd-9d6a-42f4-b3a6-ec15763aff28)
   
 SYSTEM_ARCHITECTURE:
+
   ![image](https://github.com/Sivasangaran11/online_transaction_fraud_detection/assets/121967949/073b4b0f-1495-4747-87cd-ce124b1806a6)
+  
 CONCLUSION:
   In conclusion, the above code demonstrates the use of XGBoost, a popular machine learning algorithm, for binary classification.Future works for this code could include,Trying different preprocessing
 techniques and feature engineering methods to improve model performance Implementing other machine learning algorithms and comparing their performance to XGBoostUsing a larger dataset to test the scalability of the
